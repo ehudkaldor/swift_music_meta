@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-swift_music_meta
-=======
 # swift_music_meta
->>>>>>> a483b8ad1323199639f33bd92c2a54ea263cc1ea
+
+a middleware to extract music file metadata (artist, album, etc.) from audio files and add them as metadata to the Swift object
